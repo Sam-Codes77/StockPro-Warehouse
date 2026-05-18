@@ -1,0 +1,12 @@
+D:\C#\StockPro\bin\Debug\StockPro.exe.config
+D:\C#\StockPro\bin\Debug\StockPro.exe
+D:\C#\StockPro\bin\Debug\StockPro.pdb
+D:\C#\StockPro\bin\Debug\System.Data.SqlClient.dll
+D:\C#\StockPro\bin\Debug\System.Data.SqlClient.xml
+D:\C#\StockPro\obj\Debug\StockPro.csproj.AssemblyReference.cache
+D:\C#\StockPro\obj\Debug\StockPro.Properties.Resources.resources
+D:\C#\StockPro\obj\Debug\StockPro.csproj.GenerateResource.cache
+D:\C#\StockPro\obj\Debug\StockPro.csproj.CoreCompileInputs.cache
+D:\C#\StockPro\obj\Debug\StockPro.csproj.Up2Date
+D:\C#\StockPro\obj\Debug\StockPro.exe
+D:\C#\StockPro\obj\Debug\StockPro.pdb
