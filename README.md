@@ -40,9 +40,9 @@ The system uses a 3rd Normal Form (3NF) database design consisting of 7 tables t
 | :--- | :--- |
 ![Categories](category_managemnet.png) | ![Suppliers](supplier_managemnet.png)
 
-| Reviews | Low Stock |
+| Reviews | 
 | :--- | :--- |
-![Low Stock](low_stock.png) | ![Reviews](reviews.png)
+!![Reviews](reviews.png)
 
 
 ---
